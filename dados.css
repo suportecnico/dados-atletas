@@ -17,9 +17,6 @@ main > h1 {
     margin: auto;
     padding-top: 30px;
 }
-main > h2 {
-    margin: auto;
-}
 
 main > div {
     background-color: rgb(216, 214, 214);
